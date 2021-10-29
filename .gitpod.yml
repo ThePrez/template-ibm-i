@@ -5,5 +5,4 @@ tasks:
       echo true
 vscode:
   extensions:
-    - HalcyonTechLtd.code-for-ibmi
-    - barrettotte.ibmi-languages
+    - HalcyonTechLtd.ibm-i-development-pack
